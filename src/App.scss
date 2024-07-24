@@ -1,2 +1,16 @@
-/* The following line can be included in a src/App.scss */
-@import '~bootstrap/scss/bootstrap';
+// @import '~bootstrap/scss/bootstrap';
+body {
+  background-color: #DCE0E1;
+
+}
+
+main {
+  background-color: #fff;
+  width: 700px;
+  height: 800px;
+
+}
+
+.todo {
+  padding: 30px;
+}
