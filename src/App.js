@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 import TodoList from './TodoList';
 
 function App() {
