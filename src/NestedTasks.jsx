@@ -1,7 +1,10 @@
 // import Card from 'react-bootstrap/Card';
 
 function NestedTasks() {
-  return
+  return (
+    <div>
+    </div>
+  )
 }
 
 export default NestedTasks
